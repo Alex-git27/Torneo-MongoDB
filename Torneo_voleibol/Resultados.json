@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "64128ac60a99162a59b60fee"
+  },
+  "nombre_partido": "Partido_1",
+  "nombre_equipo1": "Cali",
+  "nombre_equipo2": "Medellin",
+  "puntos_equipo1": 20,
+  "puntos_equipo2": 15,
+  "numero_de_errores_equipo1": 5,
+  "numero_de_errores_equipo2": 7
+},{
+  "_id": {
+    "$oid": "64128ac60a99162a59b60fef"
+  },
+  "nombre_partido": "Partido_2",
+  "nombre_equipo1": "Bogota",
+  "nombre_equipo2": "Tolima",
+  "puntos_equipo1": 50,
+  "puntos_equipo2": 25,
+  "numero_de_errores_equipo1": 9,
+  "numero_de_errores_equipo2": 6
+},{
+  "_id": {
+    "$oid": "64128ac60a99162a59b60ff0"
+  },
+  "nombre_partido": "Final",
+  "nombre_equipo1": "ganador1",
+  "nombre_equipo2": "ganador2",
+  "puntos_equipo1": 55,
+  "puntos_equipo2": 60,
+  "numero_de_errores_equipo1": 6,
+  "numero_de_errores_equipo2": 10
+}]

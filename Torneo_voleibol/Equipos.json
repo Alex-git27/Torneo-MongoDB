@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6415bf7ec72591e1b7940790"
+  },
+  "nombre": "Medellin",
+  "numero_de_jugadores": 10
+},{
+  "_id": {
+    "$oid": "6415bf7ec72591e1b7940791"
+  },
+  "nombre": "Bolivia",
+  "numero_de_jugadores": 9
+},{
+  "_id": {
+    "$oid": "6415bf7ec72591e1b7940792"
+  },
+  "nombre": "Brasil",
+  "numero_de_jugadores": 11
+}]

@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6411143b22ce37812ec90390"
+  },
+  "nombre_deportista": "Pepito Conejo",
+  "equipo": "Tolima",
+  "posicion": "Armador"
+},{
+  "_id": {
+    "$oid": "64111a3f22ce37812ec90391"
+  },
+  "nombre_deportista": "Celia Cruz",
+  "equipo": "Tolima",
+  "posicion": "Rematador externo"
+},{
+  "_id": {
+    "$oid": "6411303a22ce37812ec90395"
+  },
+  "nombre_deportista": "Eduardo Romero",
+  "equipo": "Tolima",
+  "posicion": "Rematador opuesto"
+},{
+  "_id": {
+    "$oid": "6411312e22ce37812ec90396"
+  },
+  "nombre_deportista": "Martha Batanero",
+  "equipo": "Tolima",
+  "posicion": "Rematador medio"
+},{
+  "_id": {
+    "$oid": "6411315722ce37812ec90397"
+  },
+  "nombre_deportista": "Miguel Moreno",
+  "equipo": "Tolima",
+  "posicion": "Líbero"
+},{
+  "_id": {
+    "$oid": "641131e722ce37812ec90398"
+  },
+  "nombre_deportista": "Gabriela Moreno",
+  "equipo": "Tolima",
+  "posicion": "Especialista defensivo"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec90399"
+  },
+  "nombre_deportista": "Karen Cruz",
+  "equipo": "Bogota",
+  "posicion": "Armador"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039a"
+  },
+  "nombre_deportista": "Laura Vanegas",
+  "equipo": "Bogota",
+  "posicion": "Rematador externo"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039b"
+  },
+  "nombre_deportista": "Carlos Montes",
+  "equipo": "Bogota",
+  "posicion": "Rematador opuesto"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039c"
+  },
+  "nombre_deportista": "Brayan Gomez",
+  "equipo": "Bogota",
+  "posicion": "Rematador medio"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039d"
+  },
+  "nombre_deportista": "Yesid Romero",
+  "equipo": "Bogota",
+  "posicion": "Líbero"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039e"
+  },
+  "nombre_deportista": "Anny Baron",
+  "equipo": "Medellin",
+  "posicion": "Armador"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec9039f"
+  },
+  "nombre_deportista": "Sebastian Baron",
+  "equipo": "Medellin",
+  "posicion": "Rematador externo"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a0"
+  },
+  "nombre_deportista": "Luis Carvajal",
+  "equipo": "Medellin",
+  "posicion": "Rematador opuesto"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a1"
+  },
+  "nombre_deportista": "Luisa Velez",
+  "equipo": "Medellin",
+  "posicion": "Rematador medio"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a2"
+  },
+  "nombre_deportista": "Fabian Dominguez",
+  "equipo": "Medellin",
+  "posicion": "Líbero"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a3"
+  },
+  "nombre_deportista": "Carlos Martin",
+  "equipo": "Medellin",
+  "posicion": "Especialista defensivo"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a4"
+  },
+  "nombre_deportista": "Pablo Quitian",
+  "equipo": "Cali",
+  "posicion": "Armador"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a5"
+  },
+  "nombre_deportista": "Daniel Marin",
+  "equipo": "Cali",
+  "posicion": "Rematador externo"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a6"
+  },
+  "nombre_deportista": "Diego Batanero",
+  "equipo": "Cali",
+  "posicion": "Rematador opuesto"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a7"
+  },
+  "nombre_deportista": "Martin Quitian",
+  "equipo": "Cali",
+  "posicion": "Rematador medio"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a8"
+  },
+  "nombre_deportista": "Daniela Porras",
+  "equipo": "Cali",
+  "posicion": "Líbero"
+},{
+  "_id": {
+    "$oid": "641132c822ce37812ec903a9"
+  },
+  "nombre_deportista": "Sofia Salinas",
+  "equipo": "Cali",
+  "posicion": "Especialista defensivo"
+}]
